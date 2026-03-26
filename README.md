@@ -42,7 +42,7 @@ This repository contains the code and analysis for Problem Set #2 (Using Text as
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/[your-username]/sms-spam-detection.git
+git clone https://github.com/[saaransh46-glitch]/sms-spam-detection.git
 cd sms-spam-detection
 ```
 
